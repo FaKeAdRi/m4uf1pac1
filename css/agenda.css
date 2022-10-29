@@ -1,0 +1,28 @@
+main {
+    padding-top: 10vw;
+    width: 94.9vw;
+    margin-left: 2vw;
+}
+
+main {
+    text-align: center;
+}
+
+table {
+    border: 0.1vw solid black;
+   
+}
+
+th, td {
+    border: 0.1vw solid black;
+    width: 10vw;
+    height: 2.5vw;
+}
+
+.meses {
+    height: 5vw;
+}
+
+footer {
+    margin-top: 2.3vw;
+}

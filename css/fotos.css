@@ -1,0 +1,38 @@
+main {
+    padding-top: 10vw;
+    width: 94.9vw;
+    margin-left: 2vw;
+}
+
+#caratula01, #caratula02, #caratula03 {
+    height: 23vw;
+}
+
+#caratula01 {
+    width: 20.3vw;
+    margin-right: -0.48vw;
+
+}
+
+#caratula02 {
+    width: 16.9vw;
+    height: 23vw; 
+    margin: 0vw 1.5vw 0vw 1.6vw;
+}
+#caratula03 {
+    width: 19.9vw;
+    height: 23vw;
+    margin-left: 0.3vw;
+}
+
+.captura {
+    width: 34.5vw;
+    height: 21vw;
+    border: solid 0.1vw black;
+    margin: 0vw 2vw 1vw 0vw;
+
+}
+
+main section div {
+margin-bottom: 1.3vw;
+}

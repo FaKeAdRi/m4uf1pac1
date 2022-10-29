@@ -1,0 +1,39 @@
+aside {
+    width: 25vw;
+    text-align: center;
+    float: left;
+    margin-top: 10vw;
+}
+
+aside section img {
+    width: 20vw;
+    height: 60vh;
+    text-align: center;
+    border: 0.1vw solid black;
+}
+
+aside section p {
+    margin: 0.25vw 0vw 1vw 0vw;
+}
+
+article {
+    width: 73.9vw;
+    height: 140vh;
+    float: left;
+    padding-right: 2.5vw;
+    margin-top: 10vw;
+}
+
+article p {
+    line-height: 3.5vh;
+    margin-bottom: 1vw;
+}
+
+article div {
+    text-align: center;
+}
+
+article div img {
+    width: 30vw;
+    border: 0.1vw solid black;
+}

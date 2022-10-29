@@ -1,0 +1,15 @@
+main {
+    padding-top: 10vw;
+    width: 94.9vw;
+    margin-left: 2vw;
+    text-align: center;
+}
+
+main iframe {
+    width: 50vw;
+    border: solid 0.1vw black;
+}
+
+footer {
+    margin-top: 2.2vw;
+}
